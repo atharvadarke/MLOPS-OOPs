@@ -16,3 +16,5 @@ sam = Employee()
 # sam.travel('New York City')
 
 print(type(sam))
+jack = Employee()
+print(jack.salary) 
