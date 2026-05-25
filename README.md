@@ -25,3 +25,8 @@
 
 
 7. Types of inheritance
+    > Single Inheritance
+    > Multiple Inheritance
+    > Multilevel Inheritance
+    > Hierarchical Inheritance
+    > Hybrid Inheritance
